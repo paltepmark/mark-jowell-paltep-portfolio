@@ -1,0 +1,12 @@
+{
+  "name": "mark-jowell-paltep-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A responsive, editable Mark Jowell Paltep portfolio built with HTML, CSS and JavaScript.",
+  "scripts": {
+    "dev": "node server.mjs --port 3000",
+    "build": "node scripts/build.mjs",
+    "preview": "node server.mjs --root dist --port 4173"
+  }
+}

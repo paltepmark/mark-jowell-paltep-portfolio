@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+TODO.md
+app.config.ts
+manus-routes.json
+.env*
+!.env.example
+*.zip
